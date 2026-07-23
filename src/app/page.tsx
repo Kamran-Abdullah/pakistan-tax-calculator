@@ -1633,7 +1633,7 @@ export default function Home() {
                 </p>
                 <div className="flex items-center gap-2 sm:pl-4 sm:border-l border-slate-200">
                   <span className="text-xs text-slate-400">Powered by</span>
-                  <img src="/Logo_Nafiflow_only_n.png" alt="Nafiflow" className="h-5 w-auto" />
+                  <img src="/logo.svg" alt="SplitTax Calculator" className="h-5 w-auto" />
                 </div>
               </div>
             </div>
