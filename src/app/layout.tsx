@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: "Professional Pakistan Income Tax Calculator for FY 2025-26 and FY 2026-27. Calculate your taxable income, compare tax rates, and see year-over-year savings.",
   keywords: ["Pakistan Tax", "Income Tax Calculator", "FBR Tax", "Salary Tax", "FY 2026-27", "Tax Slabs Pakistan"],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/logo.svg",
   },
 };
 
